@@ -3,14 +3,16 @@
 This repository contains a static HTML website that can be deployed on a Linux server using the Apache2/httpd service.
 It includes HTML, CSS, JavaScript, and image assets to serve a complete static web page.
 
+
 ## 📦 Project Structure
 
-
+```plaintext
+.
 ├── images/                          # Image assets used in the site
 ├── index.html                      # Main HTML file (entry point)
 ├── templatemo-3d-coverflow.css      # Stylesheet for layout/design
 ├── templatemo-3d-coverflow-scripts.js # JavaScript for interactive behavior
-└── README.md                       # This file
+└── README.md                       # This file                     # This file
 
 
 ## 🚀 Features
@@ -54,5 +56,5 @@ Now the site should be visible at `http://localhost`.
 ## 📌 Notes
 
 * This is a **static site** — no backend required.
-* You can also deploy it for free using **GitHub Pages**, which serves HTML/CSS/JS from your repository automatically (great for static sites like this). ([GitHub][2])
+* You can also deploy it for free using **GitHub Pages**, which serves HTML/CSS/JS from your repository automatically (great for static sites like this). 
 
