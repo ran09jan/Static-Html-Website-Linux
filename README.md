@@ -12,7 +12,7 @@ It includes HTML, CSS, JavaScript, and image assets to serve a complete static w
 ├── index.html                      # Main HTML file (entry point)
 ├── templatemo-3d-coverflow.css      # Stylesheet for layout/design
 ├── templatemo-3d-coverflow-scripts.js # JavaScript for interactive behavior
-└── README.md                       # This file                     # This file
+└── README.md                       # This file                   
 
 
 ## 🚀 Features
